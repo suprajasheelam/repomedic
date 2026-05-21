@@ -41,6 +41,3 @@ Open http://localhost:3000
 - Tailwind CSS (styling)
 - IBM Bob (AI analysis engine - Ask, Plan, Code modes)
 
-## License
-
-MIT
